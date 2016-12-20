@@ -1,3 +1,9 @@
+# Apps in Web / Mobile
+
+1. Vresion Web 
+2. Version Mobile (Hybride iOS / Android)
+
+
 
 # Project Demonstration NT + TS2 + NG2 +WEBPACK
 
