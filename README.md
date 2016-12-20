@@ -1,8 +1,23 @@
+
+# Project Demonstration NT + TS2 + NG2 +WEBPACK
+
+
+![enter image description here](https://docs.nativescript.org/img/cli-getting-started/angular/chapter0/NativeScript_Angular_logo.png)
+
+
+![enter image description here](https://daveceddia.com/images/angular2_es6.png)
+
+
+![enter image description here](https://camo.githubusercontent.com/6effdb8103365043944db7a341e91ffe2fc234e5/68747470733a2f2f63646e2e7261776769742e636f6d2f706564726f6d616c74657a2f747970657363726970742d6c6f676f2d72656372656174696f6e2f6d61737465722f6c6f676f732f747970657363726970742d636f6c6f722d6c6f676f2e737667)
+
+
+![enter image description here](https://camo.githubusercontent.com/c6ddd9ff94ce584804e95bb55b3f2416dd553843/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f313336353838312f313931383337372f34383062326664362d376462632d313165332d386261302d3733346661663331353962382e706e67)
 ## Minimum compatibility Android
 
 API > 17 < 25
 Android 4.2 and Android 7.1 => 95% Android 
 
+![enter image description here](http://thierryvanoffe.com/wp-content/uploads/2016/07/Android-logo-png.png)
 
 ## Run with device only
 
