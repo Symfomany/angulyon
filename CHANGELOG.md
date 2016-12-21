@@ -2,6 +2,7 @@
 
 * Best practicies on VSCode
 * Launch on AOT Technologie
+* Add Animations in NG2 https://github.com/matsko/angular-connect-demos
 * Add emulator for IoS on https://egghead.io/lessons/angular-2-preview-nativescript-apps-in-the-ios-simulator
 * Add Nativescript CLI here https://egghead.io/lessons/angular-2-set-up-a-native-mobile-app-using-the-nativescript-cli
 * Add SASS to project https://egghead.io/lessons/angular-2-create-a-custom-app-theme-using-sass-for-nativescript
