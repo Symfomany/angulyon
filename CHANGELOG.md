@@ -1,5 +1,6 @@
 ## All changes in future...
 
+
 * Best practicies on VSCode
 * Launch on AOT Technologie
 * Add emulator for IoS on https://egghead.io/lessons/angular-2-preview-nativescript-apps-in-the-ios-simulator
@@ -28,7 +29,8 @@
   + Fewer asynchronous requests (RxJS)
   + Smaller Angular framework download size
   + Lazy Loading 
-  * Comparate with natively Android 5 Views
+  + Comparate with natively Android 5 Views
 
 
 
+https://www.youtube.com/watch?v=n0RZbTGf6uQ
