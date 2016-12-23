@@ -1,0 +1,97 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-angular-snapshot@latest-1.2.0-5.2.361",
+        "scope": null,
+        "escapedName": "nativescript-angular-snapshot",
+        "name": "nativescript-angular-snapshot",
+        "rawSpec": "latest-1.2.0-5.2.361",
+        "spec": "latest-1.2.0-5.2.361",
+        "type": "tag"
+      },
+      "/home/boyer/angulyon/angulyon"
+    ]
+  ],
+  "_from": "nativescript-angular-snapshot@latest-1.2.0-5.2.361",
+  "_id": "nativescript-angular-snapshot@1.2.0-5.2.361-2",
+  "_inCache": true,
+  "_location": "/nativescript-angular-snapshot",
+  "_nodeVersion": "4.2.3",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-angular-snapshot-1.2.0-5.2.361-2.tgz_1481809830456_0.16170153371058404"
+  },
+  "_npmUser": {
+    "name": "tns-bot",
+    "email": "nativescript@telerik.com"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-angular-snapshot@latest-1.2.0-5.2.361",
+    "scope": null,
+    "escapedName": "nativescript-angular-snapshot",
+    "name": "nativescript-angular-snapshot",
+    "rawSpec": "latest-1.2.0-5.2.361",
+    "spec": "latest-1.2.0-5.2.361",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-angular-snapshot/-/nativescript-angular-snapshot-1.2.0-5.2.361-2.tgz",
+  "_shasum": "b57f62099918e2a8cab37bbc37b145c15752401a",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-angular-snapshot@latest-1.2.0-5.2.361",
+  "_where": "/home/boyer/angulyon/angulyon",
+  "bugs": {
+    "url": "https://github.com/NativeScript/nativescript-angular/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "b57f62099918e2a8cab37bbc37b145c15752401a",
+    "tarball": "https://registry.npmjs.org/nativescript-angular-snapshot/-/nativescript-angular-snapshot-1.2.0-5.2.361-2.tgz"
+  },
+  "homepage": "https://github.com/NativeScript/nativescript-angular#readme",
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "enchev",
+      "email": "vladimir.enchev@gmail.com"
+    },
+    {
+      "name": "erjangavalji",
+      "email": "erjan.gavalji@gmail.com"
+    },
+    {
+      "name": "hdeshev",
+      "email": "hristo@deshev.com"
+    },
+    {
+      "name": "tns-bot",
+      "email": "nativescript@telerik.com"
+    },
+    {
+      "name": "vakrilov",
+      "email": "alexander.vakrilov@gmail.com"
+    }
+  ],
+  "name": "nativescript-angular-snapshot",
+  "nativescript": {
+    "platforms": {
+      "android": "2.0.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NativeScript/nativescript-angular.git"
+  },
+  "scripts": {},
+  "version": "1.2.0-5.2.361-2"
+}

@@ -1,11 +1,11 @@
 "use strict";
-var core_1 = require("@angular/core");
+var core_1 = require('@angular/core');
 var platform_1 = require("nativescript-angular/platform");
 var app_component_1 = require("./app.component");
 /**
  * Enable for Prod mod
  */
-// enableProdMode();
+core_1.enableProdMode();
 var AppModule = (function () {
     function AppModule() {
     }

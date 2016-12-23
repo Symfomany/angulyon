@@ -1,0 +1,297 @@
+{
+    "data": [{
+            "id": 1,
+            "pseudo": "Rick Grimes",
+            "sexe": true,
+            "note": 4.5,
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Andrew_Lincoln_2012.jpg/200px-Andrew_Lincoln_2012.jpg",
+            "activite": "Sheriff",
+            "naissance": "24/12/1975",
+            "coord": {
+                "lat": "45.764043",
+                "long": "4.835659"
+            },
+            "pays": "USA",
+            "resume": "Rick Grimes est adjoint du shérif du comté de King, non loin d'Atlanta. Alors qu'il participe à une course poursuite avec son meilleur ami et coéquipier Shane Walsh, la poursuite tourne à la fusillade et il reçoit une balle dans le dos. Il sombre dans le coma sous les yeux de son ami. Lorsqu'il se réveille à l'hôpital, il constate que le lieu est vide, du sang et des traces de balles parsèment les couloirs. Il découvre en sortant de l'hôpital un charnier de cadavres enveloppés dans des draps blancs. Il se rend chez lui alors qu'il recherchait désespérément sa femme et son fils, il se fait assommer par un enfant. Le père de l'enfant nommé Morgan, le transporte chez eux, le soigne et le nourrit. Il explique à Rick qu'une partie de la population a été infectée et s'est transformée en mort-vivants, appelés rôdeur. Il apprend aussi que l'on peut être infecté par leur morsure ou griffure.",
+            "saison": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "id": 2,
+            "pseudo": "Daryl Dixon",
+            "sexe": true,
+            "note": 2.5,
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Norman_Reedus_by_Gage_Skidmore.jpg/200px-Norman_Reedus_by_Gage_Skidmore.jpg",
+            "activite": "Chasseur",
+            "naissance": "06/01/1969",
+            "coord": {
+                "lat": "45.755240",
+                "long": "4.890289"
+            },
+            "pays": "USA",
+            "resume": "Jeune frère de Merle, Daryl est un rustre, une tête brûlée efficace mais taciturne, au caractère difficile. Il arrive cependant à se contenir et à coopérer rapidement avec le reste du groupe. Il se révèle alors être un élément indispensable face aux ennemis, rôdeurs ou vivants. Son arme de prédilection est une arbalète de chasse (une Horton Scout HD 125 de la première à la troisième saison, puis à partir de la troisième saison, une Stryker Strykezone 380 Black Ops) qu'il manie à la perfection. Il est précis, silencieux (un vrai atout contre les rôdeurs) et ses flèches réutilisables est un plus dans un monde où les munitions sont une denrée rare. Il est également le chasseur attitré du groupe. Au début de la série, il lutte constamment avec ses propres insécurités. Il devient par la suite un personnage clé de la série, Rick le considérant comme son frère.",
+            "saison": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "id": 3,
+            "pseudo": "Maggie Greene",
+            "sexe": false,
+            "note": 4,
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lauren_Cohan_by_Gage_Skidmore.jpg/200px-Lauren_Cohan_by_Gage_Skidmore.jpg",
+            "activite": "Fermière",
+            "naissance": "07/01/1982",
+            "coord": {
+                "lat": "45.732786",
+                "long": "4.818192"
+            },
+            "pays": "USA",
+            "resume": "Maggie est la demi-sœur aînée de la jeune Beth, leur père étant Hershel Greene. Elle entame une relation avec Glenn lorsque celui-ci arrive avec le groupe à la ferme, au début pour assouvir ses envies sexuelles, puis finit par tomber amoureuse de lui. On apprendra dans la sixième saison qu'elle est enceinte.",
+            "saison": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "id": 4,
+            "pseudo": "Carl Grimes",
+            "sexe": true,
+            "note": 3,
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Chandler_Riggs_2014.jpg/200px-Chandler_Riggs_2014.jpg",
+            "activite": "Enfant",
+            "naissance": "27/06/1999",
+            "coord": {
+                "lat": "45.703235",
+                "long": "4.888573"
+            },
+            "pays": "USA",
+            "resume": "Jeune garçon de 11 ans dans la première saison, c'est le fils de Rick et Lori. Étant orphelin, le petit garçon entretien une relation privilégié avec Shane.Dans la première saison, Carl est ami avec la jeune Sophia. Au fur et à mesure des saisons, il veut s'affirmer et décide alors de défendre et de protéger le groupe avec l'accord de son père, Rick. Mais les décisions qu'il entreprend ne sont pas toujours justifiées. Son arme de prédilection est un Beretta 92FS 9 mm de 1976. Il donne un amour sans faille à sa petite sœur, et choisira son prénom. Il perdra son œil par la faute de Ron lors de l'épisode Sans issue.",
+            "saison": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "id": 5,
+            "pseudo": "Lori Grimes",
+            "note": 2,
+            "sexe": false,
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sarah_Wayne_Callies_by_Gage_Skidmore.jpg/200px-Sarah_Wayne_Callies_by_Gage_Skidmore.jpg",
+            "activite": "Femme au foyer",
+            "naissance": "01/06/1977",
+            "coord": {
+                "lat": "45.691725",
+                "long": "4.813042"
+            },
+            "pays": "USA",
+            "resume": "C'est la femme de Rick. Le fils unique de Lori et Rick est Carl Grimes, âgé d'environ 12 ans. Alors qu'elle pense son mari mort, elle subira la perversion de Shane, le meilleur ami de son mari. Finalement, elle ordonne Shane de s'éloingner et avoue tout a Rick lorsque celui-ci réapparaît, après avoir découvert que Shane lui a délibérément menti au sujet de l'état de ce dernier, en le faisant passer pour mort. Soutenant toujours les décisions de son mari, elle a cependant parfois du mal à approuver les décisions parfois radicales de ce dernier. À la fin de la saison, Shane tente de la violer sous l'effet de l'alcool au CDC mais elle parvient à l'éloigner et à lui faire reprendre ses esprits. Elle fuit le CDC juste avant l'explosion.",
+            "saison": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "id": 8,
+            "pseudo": "Carol Peletier",
+            "note": 4.5,
+            "sexe": true,
+            "photo": "https://upload.wikimedia.org/wikipedia/en/8/80/CarolPeletier.jpg",
+            "activite": "Soldat Tueur",
+            "naissance": "15/11/1970",
+            "coord": {
+                "lat": "45.991471",
+                "long": "4.718821"
+            },
+            "pays": "France",
+            "resume": "Carol Peletier est un personnage principal de la série télévisée The Walking Dead . Elle est interprétée par Melissa McBride et doublée en version française par Françoise Rigal.",
+            "saison": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "id": 9,
+            "pseudo": "Glenn Rhee",
+            "note": 4.0,
+            "sexe": false,
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Steven_Yeun_at_the_2013_San_Diego_Comic_Con.jpg/200px-Steven_Yeun_at_the_2013_San_Diego_Comic_Con.jpg",
+            "activite": "Livreur de pizza",
+            "naissance": "15/11/1975",
+            "coord": {
+                "lat": "45.991471",
+                "long": "4.718821"
+            },
+            "pays": "France",
+            "resume": "Glenn Rhee est un des personnages principaux du comic book The Walking Dead et de la série télévisée The Walking Dead. Il est interprété par Steven Yeun. Deuxième personnage (après Morgan Jones) que rencontre le héros Rick Grimes dès le premier album du comic et le deuxième épisode de la série, c'est un ancien livreur de pizza qui se caractérise par son intrépidité et sa faculté à se sortir des situations dangereuses. Il est froidement assassiné par Negan lors du premier épisode de la septième saison.",
+            "saison": [
+                1,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+
+        {
+            "id": 10,
+            "pseudo": "Michonne",
+            "note": 4.0,
+            "sexe": true,
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Danai_Gurira_by_Gage_Skidmore.jpg/800px-Danai_Gurira_by_Gage_Skidmore.jpg",
+            "activite": "Guerrière",
+            "naissance": "14/06/1977",
+            "coord": {
+                "lat": "48.863812",
+                "long": "2.448451"
+            },
+            "pays": "France",
+            "resume": "Michonne est un personnage principal de la série télévisée The Walking Dead . Elle est interprétée par Danai Gurira et doublée en version française par Laura Zichy.",
+            "saison": [
+                1,
+                2,
+                4,
+                6
+            ]
+        },
+
+
+        {
+            "id": 11,
+            "pseudo": "Negan",
+            "note": 5.0,
+            "sexe": false,
+            "photo": "http://www.journaldugeek.com/wp-content/blogs.dir/1/files/2016/10/fgf.jpg",
+            "activite": "Sauveur",
+            "naissance": "13/08/1967",
+            "coord": {
+                "lat": "48.873812",
+                "long": "2.488451"
+            },
+            "pays": "France",
+            "resume": "Negan est un personnage de fiction dans la série de comics The Walking Dead. Il est le chef d'un groupe d'environ une centaine de survivants (principalement des hommes) établi à Washington, DC et appelé les Sauveurs (The Saviors en VO) qui soumettent les communautés voisines pour leurs ressources, en échange de quoi, ils offrent leur protection contre les zombies.",
+            "saison": [
+                6,
+                7
+            ]
+        },
+
+        {
+            "id": 12,
+            "pseudo": "Le Gouverneur",
+            "note": 3.5,
+            "sexe": false,
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/David_Morrissey_by_Gage_Skidmore.jpg/800px-David_Morrissey_by_Gage_Skidmore.jpg",
+            "activite": "Chef",
+            "naissance": "18/10/1967",
+            "coord": {
+                "lat": "48.873812",
+                "long": "2.488451"
+            },
+            "pays": "France",
+            "resume": "Le Gouverneur est un personnage principal de la série télévisée The Walking Dead. Il est interprété par David Morrissey et doublé en version française par Nicolas Marié.",
+            "saison": [
+                3,
+                4
+            ]
+        },
+
+
+        {
+            "id": 13,
+            "pseudo": "Eugene Porter",
+            "note": 1.5,
+            "sexe": false,
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Josh_McDermitt_2014.jpg/800px-Josh_McDermitt_2014.jpg",
+            "activite": "Scientifique",
+            "naissance": "12/08/1969",
+            "coord": {
+                "lat": "48.853812",
+                "long": "2.458451"
+            },
+            "pays": "France",
+            "resume": "Eugene est un scientifique qui étudie la maladie, dont il prétend pouvoir stopper la pandémie. Il fait partie du groupe d'Abraham et Rosita. Ensemble, ils rencontreront Glenn et Tara. Eugene acceptera de suivre Glenn vers le Terminus, ils rencontreront Maggie, Sasha et Bob, et immédiatement, ils iront aider Glenn et Tara.",
+            "saison": [
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+
+
+        {
+            "id": 14,
+            "pseudo": "Abraham Ford",
+            "note": 3,
+            "sexe": false,
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Michael_Cudlitz_2016_%28cropped%29.jpg/800px-Michael_Cudlitz_2016_%28cropped%29.jpg",
+            "activite": "Militaire",
+            "naissance": "12/08/1970",
+            "coord": {
+                "lat": "48.863812",
+                "long": "2.444451"
+            },
+            "pays": "Etats-Unis",
+            "resume": "Abraham Ford est un personnage principal de la série télévisée The Walking Dead. Il est interprété par Michael Cudlitz et doublé en version française par Lionel Tua. Il apparaît pour la première fois lors de l'épisode Détenus (saison 4 épisode 10). Il aide Glenn à retrouver Maggie. C'est un sergent de l'armée des vétérans. Il est froidement assassiné en même temps que Glenn par Negan dans le tout premier épisode de la septième saison, battu à mort par la batte aux fils barbelés appelée Lucille",
+            "saison": [
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+
+
+        {
+            "id": 15,
+            "pseudo": "Gabriel Stokes",
+            "note": 2,
+            "sexe": false,
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Seth_Gilliam_February_2015.jpg/800px-Seth_Gilliam_February_2015.jpg",
+            "activite": "Prêtre",
+            "naissance": "06/05/1982",
+            "coord": {
+                "lat": "46.863812",
+                "long": "2.444451"
+            },
+            "pays": "Etats-Unis",
+            "resume": "AIl est très peureux et incapable de se défendre seul contre les rôdeurs. Il est encore vie seulement parce qu'il est resté reclus dans son église isolée dans les bois. Sa piété lui fait adopter - à certains moments - une attitude paradoxale. Durant la saison 6, sa personnalité change suite aux divers événements qui ont lieu à Alexandria, il s'entraine alors aux armes avec Rick et Carl. Lors de l'attaque du camp des sauveurs il abat de sang froid un sauveur déjà touché.",
+            "saison": [
+                4,
+                5,
+                6
+            ]
+        }
+
+
+
+
+
+
+    ]
+}

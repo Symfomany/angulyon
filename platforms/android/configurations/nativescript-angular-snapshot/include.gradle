@@ -1,0 +1,13 @@
+android {
+    productFlavors {
+        "F1" {
+            dimension "nativescriptangularsnapshot"
+        }
+    }
+}
+
+android {
+    aaptOptions {
+        ignoreAssetsPattern "_embedded_script_.js"
+    }
+}

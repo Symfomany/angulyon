@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/boyer/angulyon/angulyon/platforms/android/build/intermediates/res/merged/F0F1/release/drawable-ldpi-v4/icon.png",
+        "source": "/home/boyer/angulyon/angulyon/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/boyer/angulyon/angulyon/platforms/android/build/intermediates/res/merged/F0F1/release/drawable-ldpi-v4/logo.png",
+        "source": "/home/boyer/angulyon/angulyon/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/home/boyer/angulyon/angulyon/platforms/android/build/intermediates/res/merged/F0F1/release/drawable-ldpi-v4/background.png",
+        "source": "/home/boyer/angulyon/angulyon/platforms/android/src/main/res/drawable-ldpi/background.png"
+    }
+]

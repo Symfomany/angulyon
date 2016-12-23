@@ -1,6 +1,20 @@
-# Apps in Web / Mobile
+# Apps  Web / Mobile AngularLyon
 
-1. Vresion Web 
+WalkinDead App To handle All people in WalkinDead Serie
+
+
++ Username et Photo de la personne qui entre dans l'App
+
+
++ Ajout
++ Suppression
++ Note
++ Commentaires par utilisateur
++ Trie, Filtre
++ Affiche le flux de personne qui on commenter
+
+
+1. Version Web 
 2. Version Mobile (Hybride iOS / Android)
 
 
@@ -104,6 +118,30 @@ tns platform add android
 tns livesync android --watch
 ```
 
+### Genereate a key for Android APK Certification
+
+keytool -genkey -v -keystore mykey.keystore -alias Angu
+larLyon -keyalg RSA -keysize 2048 -validity 10000
+
+### Build APK for Android in Production
+
+```
+npm run build-android-bundle -- --release --for-device
+gedit android.pub
+
+tns build android [--compileSdk <API Level>] [--key-store-path <File Path> - │
+│         │ -key-store-password <Password> --key-store-alias <Name> --key-store-alias      │
+│         │ -password <Password>] [--release] [--static-bindings] [--copy-to <File Path>]
+
+ex:
+tns build android --release --key-store-path /home/boyer/angulyon/angulyon/mykey.keystore --key-store-password djscrave --key-store-alias AngularLyon --key-store-alias-password djscrave
+
+```
+
+
+https://docs.nativescript.org/publishing/publishing-android-apps
+
+
 ## All tasks
 
 Launch with npm run
@@ -132,8 +170,45 @@ npm update
 
 Module installé: nativescript-theme-core
 
+# Troubleshooting
+
 ## Export Android
+
+The ANDROID_HOME environment variable is not set or it points to a non-existent directory. You
+will not be able to perform any build-related operations for Android.
+
 export ANDROID_HOME=/home/boyer/Documents/android-sdk-linux
 export PATH=$PATH:$ANDROID_HOME/tools
+. ~/.profile
+or nano .bash_profile
+
+### Webpack with Nativescript Architecture
+* devDependencies settings that will contain the most popular webpack package and several loaders and plugins.
+* webpack.android.js and webpack.ios.js configuration files for the Android and iOS platforms respectively.
+* webpack.common.js -- this is the main configuration file that is shared for both the Android and iOS platform. It contains sensible defaults, but it is designed to be as readable and easy to modify as possible.
+
+
+Application source files configuring bundle chunks:
+* app/vendor. Defines vendor modules which get bundled separately from application code.
+* app/vendor-platform.android and app/vendor-platform.ios. Define platform-specific vendor modules.
+
 
 ## Webpack
+
+Update NPM :
+
+```
+npm install npm@latest -g
+npm uninstall -g angular-cli
+npm cache clean
+npm install -g angular-cli@latest
+ pre:
+    - npm install -g angular-cli
+    - npm install @angular/tsc-wrapped autoprefixer
+```
+
+### Clean cache
+```
+npm cache clean
+npm run clean-android
+```

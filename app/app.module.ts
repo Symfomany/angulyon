@@ -1,4 +1,4 @@
-import { NgModule, NO_ERRORS_SCHEMA } from "@angular/core";
+import { enableProdMode, NgModule, NO_ERRORS_SCHEMA } from '@angular/core';
 import { NativeScriptModule } from "nativescript-angular/platform";
 
 import { AppComponent } from "./app.component";
@@ -7,7 +7,7 @@ import { AppComponent } from "./app.component";
 /**
  * Enable for Prod mod
  */
-// enableProdMode();
+enableProdMode();
 
 
 @NgModule({
