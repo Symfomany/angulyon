@@ -1,6 +1,7 @@
 ## All changes in future...
 
 
+* Mise en place d'une architecture components, directives, pipes, routes,services
 * Best practicies on VSCode
 * Launch on AOT Technologie
 * Add Animations in NG2 https://github.com/matsko/angular-connect-demos
