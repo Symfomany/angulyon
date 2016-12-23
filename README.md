@@ -17,7 +17,16 @@ WalkinDead App To handle All people in WalkinDead Serie
 1. Version Web 
 2. Version Mobile (Hybride iOS / Android)
 
+# Google Play Console
 
+https://play.google.com/apps/publish/
+
+# App available here
+https://play.google.com/store/apps/details?id=org.nativescript.angulyon
+
+# Your app with Firebase
+
+https://www.nativescript.org/blog/ignite-your-app-development-with-nativescript-and-firebase
 
 # Project Demonstration NT + TS2 + NG2 +WEBPACK
 
